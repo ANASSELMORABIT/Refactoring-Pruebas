@@ -1,0 +1,14 @@
+C:\Users\anass\OneDrive\Desktop\testNet\PruebasUnitarias\obj\Debug\net8.0\Pruebas Unitarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\OneDrive\Desktop\testNet\PruebasUnitarias\obj\Debug\net8.0\Pruebas Unitarias.AssemblyInfoInputs.cache
+C:\Users\anass\OneDrive\Desktop\testNet\PruebasUnitarias\obj\Debug\net8.0\Pruebas Unitarias.AssemblyInfo.cs
+C:\Users\anass\OneDrive\Desktop\testNet\PruebasUnitarias\obj\Debug\net8.0\Pruebas Unitarias.csproj.CoreCompileInputs.cache
+C:\Users\anass\OneDrive\Desktop\testNet\PruebasUnitarias\bin\Debug\net8.0\Pruebas Unitarias.exe
+C:\Users\anass\OneDrive\Desktop\testNet\PruebasUnitarias\bin\Debug\net8.0\Pruebas Unitarias.deps.json
+C:\Users\anass\OneDrive\Desktop\testNet\PruebasUnitarias\bin\Debug\net8.0\Pruebas Unitarias.runtimeconfig.json
+C:\Users\anass\OneDrive\Desktop\testNet\PruebasUnitarias\bin\Debug\net8.0\Pruebas Unitarias.dll
+C:\Users\anass\OneDrive\Desktop\testNet\PruebasUnitarias\bin\Debug\net8.0\Pruebas Unitarias.pdb
+C:\Users\anass\OneDrive\Desktop\testNet\PruebasUnitarias\obj\Debug\net8.0\Pruebas Unitarias.dll
+C:\Users\anass\OneDrive\Desktop\testNet\PruebasUnitarias\obj\Debug\net8.0\refint\Pruebas Unitarias.dll
+C:\Users\anass\OneDrive\Desktop\testNet\PruebasUnitarias\obj\Debug\net8.0\Pruebas Unitarias.pdb
+C:\Users\anass\OneDrive\Desktop\testNet\PruebasUnitarias\obj\Debug\net8.0\Pruebas Unitarias.genruntimeconfig.cache
+C:\Users\anass\OneDrive\Desktop\testNet\PruebasUnitarias\obj\Debug\net8.0\ref\Pruebas Unitarias.dll
